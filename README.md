@@ -1,2 +1,6 @@
 # bot-chat
-Bot criado em python, que manda diversas mensagens repitida (floods) para alguem
+Descrição:
+Script para automação de envio de mensagens repetidas em plataformas de chat.
+
+Tecnologias:
+Python · Automação
